@@ -1,0 +1,17 @@
+# Salidas compiladas de Java
+*.class
+bin/
+target/
+build/
+*.bin
+*.javac
+
+# Archivos de práctica generados por Git
+*.patch
+
+# Archivos temporales del editor y del sistema
+.idea/
+.vscode/*.log
+*.swp
+*.tmp
+.DS_Store
